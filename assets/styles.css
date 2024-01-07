@@ -226,6 +226,9 @@ div ul li a {
 
 .paragraph-me {
     color: #525559;
+    margin-left: 25px;
+    margin-right: 440px;
+    text-align: justify;
 }
 
 @media screen and (max-width: 1032px) {
@@ -262,11 +265,11 @@ div ul li a {
   
 @media screen and (max-width: 676px) {
     nav ul li a {
-        font-size: 8px;
+        font-size: 10px;
     }
 
     label.title {
-        font-size: 18px;
+        font-size: 22px;
     }
 }
 
